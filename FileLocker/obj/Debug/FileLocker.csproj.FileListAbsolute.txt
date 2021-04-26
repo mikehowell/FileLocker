@@ -1,0 +1,7 @@
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\bin\Debug\FileLocker.exe.config
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\bin\Debug\FileLocker.exe
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\bin\Debug\FileLocker.pdb
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\obj\Debug\FileLocker.csprojAssemblyReference.cache
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\obj\Debug\FileLocker.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\obj\Debug\FileLocker.exe
+C:\Users\Mike.Howell.TEAM\source\my_repos\FileLocker\FileLocker\obj\Debug\FileLocker.pdb
